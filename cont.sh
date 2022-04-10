@@ -1,6 +1,6 @@
 #!/bin/bash
 
-NUMS="1 2 0 3"
+NUMS="1 2 0 3 4 5 0 7"
 SUM=0
 COUNT=0
 for NUM in $NUMS
