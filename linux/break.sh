@@ -1,7 +1,7 @@
 #!/bin/bash
 
 a=0
-while [ $a -lt 10 ]
+while [ $a -lt 30 ]
 do
   echo $a
   if [ $a -eq 8 ]; then
